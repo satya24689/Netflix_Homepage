@@ -1,12 +1,6 @@
 ## Description
 
-This project is a clone of the Netflix homepage, built with HTML, CSS, and JavaScript. It aims to replicate the look and feel of the Netflix website, including the navigation bar, movie posters, and interactive features.
-
-## Demo
-
-[View Demo](https://satya24689.github.io/netflix-webpage-clone/)
-
-![Netflix Webpage Demo](demo.gif)
+This project is a clone of the Netflix homepage, built with HTML, CSS, and JavaScript. It aims to replicate the look and feel of the Netflix website, including the navigation bar, movie posters, and interactive features
 
 ## Features
 
@@ -20,6 +14,10 @@ This project is a clone of the Netflix homepage, built with HTML, CSS, and JavaS
 - HTML5
 - CSS3 (including Flexbox and Grid)
 - JavaScript (for interactivity)
+
+## Credits
+- Netflix logo and content are the property of Netflix, Inc.
+- Movie posters and information are for demonstration purposes only.
 
 ## Installation
 
